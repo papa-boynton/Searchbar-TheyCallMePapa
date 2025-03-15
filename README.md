@@ -2,11 +2,7 @@
   <br>
   <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
   <br>
-<<<<<<< HEAD
   Searchbar
-=======
-  Searchbar2
->>>>>>> 3f33df03ff675ce4c6b4c4d54ea41e4e3a025432
   <br>
 </h1>
 
@@ -36,11 +32,7 @@ Search the Internet with your choice of five search sites. Based on original cod
 Install and activate the app.  Left click, choose search provider.  Select inputbox and type search.
 
 ## Download
-<<<<<<< HEAD
 https://github.com/papa-boynton/SearchBar-TheyCallMePapa/releases/latest
-=======
-https://github.com/papa-boynton/SearchBar2-TheyCallMePapa/releases/latest
->>>>>>> 3f33df03ff675ce4c6b4c4d54ea41e4e3a025432
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton).
