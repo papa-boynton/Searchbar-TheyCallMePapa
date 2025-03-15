@@ -33,10 +33,10 @@ Search the Internet with your choice of five search sites. Based on original cod
 Install and activate the app.  Left click, choose search provider.  Select inputbox and type search.
 
 ## Download
-https://github.com/papa-boynton/SearchBar-TheyCallMePapa/releases/latest
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
 
 ## Credits
-Written by [TheyCallMePapa](https://github.com/papa-boynton).
+Written by [TheyCallMePapa](https://github.com/papa-boynton)
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
