@@ -2,7 +2,7 @@
   <br>
   <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
   <br>
-  Search Bar II
+  Searchbar2
   <br>
 </h1>
 
@@ -23,7 +23,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](images/Screenshot.png)
+![screenshot](Images/Screenshot.png)
 
 ## Key Features
 Search the Internet with your choice of five search sites. Based on original code by JSMorley.
@@ -32,7 +32,7 @@ Search the Internet with your choice of five search sites. Based on original cod
 Install and activate the app.  Left click, choose search provider.  Select inputbox and type search.
 
 ## Download
-https://github.com/papa-boynton/SearchBar_II-TheyCallMePapa/releases/latest
+https://github.com/papa-boynton/SearchBar2-TheyCallMePapa/releases/latest
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton).
