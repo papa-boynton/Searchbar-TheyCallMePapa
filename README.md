@@ -7,6 +7,7 @@
 </h1>
 
 <h4 align="center">Search the Internet with your choice of five search sites.</h4>
+<h4 align="center">Also five stores that are searchable.</h4>
 
 <p align="center">
   <a href="https://droptopfour.com/community-apps"><img alt="Dynamic version Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDroptop-Four%2FGlobalData%2Fmain%2Fdata%2Fcommunity_apps%2Fcommunity_apps.json&query=%24.apps%5B%3F(%40.app.name%20%3D%3D%20'SearchBar')%5D.app.version&prefix=v&label=Version&color=43ff64"></a>
