@@ -9,10 +9,10 @@
 <h4 align="center">Search the Internet with your choice of five search sites.</p>Also five stores that are searchable.</h4>
 
 <p align="center">
-  <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F&query=%24%5B87%5D%5B'version'%5D&label=Version&color=43ff64"></a>
+  <a href="https://droptopfour.com/community-apps/?id=119"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F101&query=%24.version&label=Version&color=43ff64"></a>
   <a href="https://droptopfour.com"><img src="https://img.shields.io/badge/Droptop%20Four%20Website-43ff64"></a>
   <a href="https://droptopfour.com/discord"><img alt="Discord" src="https://img.shields.io/discord/800124057923485728"></a>
-  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F&query=%24%5B87%5D%5B'downloads'%5D&label=Downloads&color=d8624c">
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F101&query=%24.downloads'&label=Downloads&color=d8624c">
 </p>
 
 <p align="center">
